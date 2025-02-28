@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
 <h3 align="center">A data analyst and full-stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [jetoga99.me](jetoga99.me)
+- 👨‍💻 All of my projects are available at [jetoga99.me](https://jetoga99.me)
 
 - 📫 How to reach me **jetoga99@gmail.com**
 
